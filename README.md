@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - test lagi
+- test 2
 
 <!---
 afriandi90/afriandi90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
